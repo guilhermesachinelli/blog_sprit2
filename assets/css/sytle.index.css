@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    color: white;
+    color: #FFFFFF;
     font-family: inherit;
 
 }
@@ -17,19 +17,14 @@ body {
 #img_1notice {
     height: 200px;
     width: 300px;
-    border-radius: 20px;
+
 }
 
 #section_1notice {
     display: flex;
     width: 60%;
-    background-color: white;
     font-size: 17px;
-    border-radius: 20px;
-    background-color: #72A0C1;
-    -webkit-box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
-    -moz-box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
-    box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
+    background-color: #111111;
 }
 
 #p_1notice {
@@ -42,14 +37,9 @@ body {
 
 #section_noticiasemana {
     width: 70%;
-    background-color: white;
-    border-radius: 20px;
     display: flex;
     margin-bottom: 15px;
-    background-color: #72A0C1;
-    -webkit-box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
-    -moz-box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
-    box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
+    background-color: #111111;
 }
 
 .p_noticiasemana {
@@ -57,18 +47,16 @@ body {
 }
 
 #aside_noticiasemana {
-    width: 30%;
-    background-color: white;
+    width: 40%;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    background-color: #72A0C1;
-    -webkit-box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
-    -moz-box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
-    box-shadow: 31px 20px 42px -5px rgba(0, 0, 0, 0.64);
+    background-color: #111111;
 }
 
 #img_noticiasemana {
     height: 100px;
     width: 200px;
-    border-radius: 20px;
+}
+.p_noticiames {
+    margin-left: 5px;
 }
