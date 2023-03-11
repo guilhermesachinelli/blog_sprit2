@@ -26,7 +26,10 @@ body {
     font-size: 17px;
     background-color: #111111;
 }
-
+#link_hogwatslegacy {
+    text-decoration: none;
+    color: #FFFFFF;
+}
 #p_1notice {
     margin-left: 7px;
 }
