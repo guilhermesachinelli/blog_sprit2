@@ -13,17 +13,12 @@ body {
 #p_banner {
     text-align: center;
 }
-
 #img_1notice {
-    height: 200px;
-    width: 300px;
-
+    width: 30%;
+    height: 5%;
 }
 
 #section_1notice {
-    display: flex;
-    width: 100%;
-    font-size: 23px;
     margin-bottom: 26px;
     background-color: #111111;
 }
