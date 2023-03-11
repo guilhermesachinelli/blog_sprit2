@@ -1,6 +1,6 @@
 body {
-    color: white;
-    background-color: black;
+    background-color: whitesmoke;
+    font-family: cursive;
 }
 #h1_banner {
     text-align: center;
@@ -15,4 +15,18 @@ body {
 #article_1notice {
     display: flex;
     width: 60%;
+    background-color: white;
+}
+#div_noticiasemana {
+    display: flex;
+}
+#section_noticiasemana {
+    width: 70%;
+    background-color: white;
+    border-left: 7px solid red;
+    border-radius: 20px;
+}
+#aside_noticiasemana {
+    width: 30%;
+    background-color: white;
 }
