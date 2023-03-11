@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-color: black;
+}
+#h1_banner {
+    text-align: center;
+}
+#p_banner {
+    text-align: center;
+}
+#img_1notice {
+    height: 200px;
+    width: 300px;
+}
+#article_1notice {
+    display: flex;
+    width: 60%;
+}
