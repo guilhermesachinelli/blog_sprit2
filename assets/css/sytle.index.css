@@ -22,8 +22,9 @@ body {
 
 #section_1notice {
     display: flex;
-    width: 60%;
-    font-size: 17px;
+    width: 100%;
+    font-size: 23px;
+    margin-bottom: 26px;
     background-color: #111111;
 }
 #link_hogwatslegacy {
@@ -39,9 +40,9 @@ body {
 }
 
 #section_noticiasemana {
-    width: 70%;
+    width: 60%;
     display: flex;
-    margin-bottom: 15px;
+    margin-bottom: 23px;
     background-color: #111111;
 }
 
