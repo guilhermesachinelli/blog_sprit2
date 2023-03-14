@@ -1,0 +1,33 @@
+    body{ 
+        background-color: blanchedalmond;
+        
+    }
+#titolo{ 
+    justify-content: left;
+    font-size: 15px;
+    height: 30vh;
+    align-items: end;
+    display: flex;
+}
+#article1{
+    background-color: darkorange;
+    box-shadow: 5px 5px darkgoldenrod;
+}
+#link1{
+    justify-content: left;
+    font-size: 17px;
+    align-items: end;
+    display: flex;
+}
+#link2{
+    background-color: darkorange;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+#img1{
+    width: 40%;
+    height: 40%;
+
+}
