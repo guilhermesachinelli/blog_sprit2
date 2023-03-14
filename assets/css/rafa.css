@@ -1,33 +1,40 @@
-    body{ 
+    body {
         background-color: blanchedalmond;
-        
+
     }
-#titolo{ 
-    justify-content: left;
-    font-size: 15px;
-    height: 30vh;
-    align-items: end;
-    display: flex;
-}
-#article1{
-    background-color: darkorange;
-    box-shadow: 5px 5px darkgoldenrod;
-}
-#link1{
-    justify-content: left;
-    font-size: 17px;
-    align-items: end;
-    display: flex;
-}
-#link2{
-    background-color: darkorange;
-    text-align: center;
-    margin-left: 30%;
-    margin-right: 30%;
 
-}
-#img1{
-    width: 40%;
-    height: 40%;
+    #titolo {
+        justify-content: left;
+        font-size: 15px;
+        height: 30vh;
+        align-items: end;
+        display: flex;
+    }
 
-}
+    #article1 {
+        background-color: darkorange;
+        box-shadow: 5px 5px darkgoldenrod;
+    }
+
+    #link1 {
+        justify-content: left;
+        font-size: 27px;
+        align-items: end;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #link2 {
+        text-align: center;
+        display: flex;
+    }
+
+    #link3 {
+        border-radius: 10px;
+        background-color: darkorange;
+        box-shadow: 5px 5px darkgoldenrod;
+        text-align: center;
+        text-decoration: none;
+        color: black;
+        margin-right: 50px;
+    }
