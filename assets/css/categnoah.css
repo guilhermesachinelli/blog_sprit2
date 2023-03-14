@@ -19,6 +19,7 @@ h1 {
 }
 #textin {
     margin-top: 0%;
+    text-align: center;
 }
 div {
     background-color: #303030;
@@ -43,5 +44,9 @@ div {
 #jo {
     color: rgb(255, 123, 0);
     font-size: 45px;
+}
+#image3 {
+    width: 580px;
+    height: 300px;
 }
 
