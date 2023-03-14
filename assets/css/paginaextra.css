@@ -15,10 +15,10 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 40px;
     font-weight: 500;
     margin-top: 5rem;
-    color: #fff;
+    color: #000000;
     margin-bottom: 100px;
     text-align: center;
 }
@@ -65,4 +65,5 @@ h1 {
 }
 video{
     margin: 40px;
+    width: 400px;
 }
