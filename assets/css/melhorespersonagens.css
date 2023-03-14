@@ -16,6 +16,12 @@ body {
     text-align: center;
     font-size: 19px;
 }
-img{
+#article3{
     text-align: center;
+}
+#article4{
+    background-color: darkorange;
+    box-shadow: 5px 5px darkgoldenrod;
+    text-align: center;
+    font-size: 19px;
 }
