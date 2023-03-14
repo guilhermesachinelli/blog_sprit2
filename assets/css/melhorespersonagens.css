@@ -1,0 +1,9 @@
+body{
+    background-color: blanchedalmond;
+}
+#article1{
+    background-color: coral;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 5px 5px darkgoldenrod;
+}
