@@ -1,9 +1,21 @@
-body{
+body {
     background-color: blanchedalmond;
 }
-#article1{
-    background-color: coral;
+
+#article1 {
+    background-color: darkorange;
+    box-shadow: 5px 5px darkgoldenrod;
     text-align: center;
     justify-content: center;
+    font-size: larger;
+}
+
+#article2 {
+    background-color: darkorange;
     box-shadow: 5px 5px darkgoldenrod;
+    text-align: center;
+    font-size: 19px;
+}
+img{
+    text-align: center;
 }
