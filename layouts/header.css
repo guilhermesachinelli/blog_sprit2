@@ -21,7 +21,7 @@
   }
   .menu-bar {
     background-color: var(--color-black);
-    height: 80px;
+    height: 150px;
     width: 100%;
     display: flex;
     justify-content: space-between;

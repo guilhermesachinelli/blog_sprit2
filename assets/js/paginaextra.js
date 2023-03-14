@@ -5,12 +5,12 @@ const segundos = document.getElementById("segundos");
 
 
 
-const  anoNovo =  "16 April 2023"
+const  Jhonwick4 =  "22 March 2023"
 
 
 function contador(){
 
-   const novaData =  new Date(anoNovo);
+   const novaData =  new Date(Jhonwick4);
    const dataAtual = new Date();
 
    const totalSegundos = (novaData - dataAtual) / 1000;
@@ -24,9 +24,9 @@ function contador(){
 
 
 days.innerHTML = diasUsados
-horas.innerHTML = formatoTempo(horasUsadas)
+horas.innerHTML = formatoTempo(horasUsadas);
 minutos.innerHTML = formatoTempo(horasUsadas);
-segundos.innerHTML = formatoTempo(segundosUsados)
+segundos.innerHTML = formatoTempo(segundosUsados);
 
 }
 
