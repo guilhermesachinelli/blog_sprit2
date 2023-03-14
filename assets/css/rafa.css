@@ -1,5 +1,5 @@
     body {
-        background-color: blanchedalmond;
+        background-color: black;
 
     }
 
@@ -12,8 +12,9 @@
     }
 
     #article1 {
-        background-color: darkorange;
-        box-shadow: 5px 5px darkgoldenrod;
+        background-color: #202020;
+        box-shadow: 5px 5px #76b900;
+        color: white;
     }
 
     #link1 {
@@ -31,10 +32,10 @@
 
     #link3 {
         border-radius: 10px;
-        background-color: darkorange;
-        box-shadow: 5px 5px darkgoldenrod;
+        background-color: #202020;
+        box-shadow: 5px 5px #76b900;
         text-align: center;
         text-decoration: none;
-        color: black;
+        color: white;
         margin-right: 60px;
     }
