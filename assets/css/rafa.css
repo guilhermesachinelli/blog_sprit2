@@ -1,0 +1,41 @@
+    body {
+        background-color: black;
+
+    }
+
+    #titolo {
+        justify-content: left;
+        font-size: 20px;
+        height: 30vh;
+        align-items: end;
+        display: flex;
+    }
+
+    #article1 {
+        background-color: #202020;
+        box-shadow: 5px 5px #76b900;
+        color: white;
+    }
+
+    #link1 {
+        justify-content: left;
+        font-size: 27px;
+        align-items: end;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #link2 {
+        text-align: center;
+        display: flex;
+    }
+
+    #link3 {
+        border-radius: 10px;
+        background-color: #202020;
+        box-shadow: 5px 5px #76b900;
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        margin-right: 60px;
+    }
