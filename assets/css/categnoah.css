@@ -1,6 +1,7 @@
 #image1 {
     height: 400px;
-    width: 800px;
+    width: 850px;
+    border-radius: 5px;
 }
 #p1 {
     text-align: center;
@@ -9,10 +10,13 @@
 body {
     background-color: black;
     color: #ffffff;
-
 }
 h1 {
     text-align: center;
+}
+h2 {
+    font-size: 23px;
+    color: #ffffff;
 }
 #textao {
     font-size: 50px;
@@ -32,6 +36,7 @@ div {
 #image2 {
     height: 300px;
     width: 600px;
+    border-radius: 5px;
 }
 #jd {
     color: red;
@@ -48,5 +53,16 @@ div {
 #image3 {
     width: 580px;
     height: 300px;
+    border-radius: 5px;
+}
+#js {
+    color: rgb(255, 57, 169);
+    font-size: 45px;
+}
+#classi {
+    color: red;
+}
+#jp {
+    font-size: 45px;
 }
 
