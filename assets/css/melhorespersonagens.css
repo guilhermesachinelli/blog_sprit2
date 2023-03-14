@@ -20,6 +20,18 @@ body {
     text-align: center;
 }
 #article4{
+text-align: center;
+}
+#article5{
+    background-color: darkorange;
+    box-shadow: 5px 5px darkgoldenrod;
+    text-align: center;
+    font-size: 19px;
+}
+#article6{
+    text-align: center;
+}
+#article7{
     background-color: darkorange;
     box-shadow: 5px 5px darkgoldenrod;
     text-align: center;
