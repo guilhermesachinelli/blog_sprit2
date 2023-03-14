@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: linear-gradient(#111111);
+  background: linear-gradient(#202020);
   background-color: black;
 }
 
@@ -17,9 +17,9 @@ body {
   width: 400px;
   padding: 40px;
   transform: translate(-50%, -50%);
-  background: #111111;
+  background: #202020;
   box-sizing: border-box;
-  box-shadow: 0 15px 25px #111111;
+  box-shadow: 0 15px 25px #202020;
   border-radius: 10px;
 }
 
