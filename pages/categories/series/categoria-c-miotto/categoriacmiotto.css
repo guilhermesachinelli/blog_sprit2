@@ -1,6 +1,6 @@
 body{
-    margin: 0;
-    background-color: rgb(0, 0, 0);
+   
+    background-color: black;
     color: rgb(255, 255, 255);
 }
 
@@ -10,7 +10,7 @@ h1{
 }
 
 #div1{
-    background-color: #202020;
+    background-color:;
     width: 100%;
     height: 350px;
     border-left: 7px solid #76b900;
@@ -22,12 +22,12 @@ h1{
 #div2{
     background-color: #202020;
     width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
+    height: 450px;
     border-radius: 20px;
     margin-bottom: 25px;
     color: white;
     display: flex;
+    border-left: 7px solid #76b900;
 
 }
 
@@ -40,42 +40,23 @@ h1{
 }
 
 .section{
-    display: flex;
     font-size: 30px;
     color: #ffffff;
     background-color: #202020;
-}
-
-#div3{
-    background-color: #202020;
-    width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
-    border-radius: 20px;
-    margin-bottom: 25px;
-    color: white;
-    display: flex;
-
+    margin-bottom: 66px ;
+    width: 50%;
 }
 
 #div4{
-    background-color: #202020;
     width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
+    height: 250px;
     border-radius: 20px;
     margin-bottom: 25px;
     color: white;
     display: flex;
 }
 
-#div5{
-    background-color: #202020;
-    width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
-    border-radius: 20px;
-    margin-bottom: 25px;
-    color: white;
-    display: flex;
+#imgdiv2{
+    height: 100px;
+    width: 200px;
 }
