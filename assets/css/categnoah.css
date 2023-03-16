@@ -17,7 +17,7 @@ body {
 #sec1 {
     background-color: #161616;
     width: 250px;
-    height: 260px;
+    height: 300px;
     margin-left: 243px;
     padding-left: 10px;
     padding-right: 10px;
@@ -34,6 +34,9 @@ h2 {
     text-align: center;
     color: #ffffff;
 }
+#dj {
+    color: red;
+}
 #ida {
     color: #ffffff;
     background-color: rgb(16, 16, 16);
@@ -45,7 +48,7 @@ h2 {
 #sec2 {
     background-color: #161616;
     width: 250px;
-    height: 260px;
+    height: 300px;
     margin-left: 100px;
     padding-left: 10px;
     padding-right: 10px;
@@ -73,4 +76,7 @@ h1 {
     width: 44px;
     margin-left: 106px;
     margin-right: 106px;
+}
+h3 {
+    color: #ffffff;
 }
