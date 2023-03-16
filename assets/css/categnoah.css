@@ -1,71 +1,76 @@
-#image1 {
-    height: 400px;
-    width: 850px;
-    border-radius: 5px;
-}
-#p1 {
-    text-align: center;
-    margin-top: 5px;
-}
 body {
     background-color: black;
-    color: #ffffff;
-}
-h1 {
-    text-align: center;
-}
-h2 {
-    font-size: 23px;
-    color: #ffffff;
 }
 #textao {
-    font-size: 50px;
+    color: #ffda35;
+    text-align: center;
 }
 #textin {
-    margin-top: 0%;
     text-align: center;
+    color: #f9f8bf;
 }
-div {
-    background-color: #202020;
-    text-align: center;
-    margin-top: 80px;
-    margin-left: 220px;
-    margin-right: 220px;
-    border-radius: 15px;
-}
-#image2 {
-    height: 300px;
-    width: 600px;
+#ij {
+    height: 150px;
+    width: 250px;
     border-radius: 5px;
 }
-#jd {
-    color: red;
-    font-size: 45px;
-}
-#jf {
-    color: rgb(255, 0, 136);
-    font-size: 45px;
-}
-#jo {
-    color: rgb(255, 123, 0);
-    font-size: 45px;
-}
-#image3 {
-    width: 580px;
-    height: 300px;
-    border-radius: 5px;
-}
-#js {
-    color: rgb(255, 57, 169);
-    font-size: 45px;
-}
-#classi {
-    color: red;
-}
-#jp {
-    font-size: 45px;
+#sec1 {
+    background-color: #161616;
+    width: 250px;
+    height: 260px;
+    margin-left: 243px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 12px;
 }
 #link_django {
     text-decoration: none;
     color: #ffffff;
+}
+#div1 {
+    display: flex;
+}
+h2 {
+    text-align: center;
+    color: #ffffff;
+}
+#ida {
+    color: #ffffff;
+    background-color: rgb(16, 16, 16);
+    border-radius: 12px;
+    width: 44px;
+    margin-left: 106px;
+    margin-right: 106px;
+}
+#sec2 {
+    background-color: #161616;
+    width: 250px;
+    height: 260px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 12px;
+}
+#div2 {
+    display: flex;
+    margin-top: 30px;
+}
+h1 {
+    font-size: 50px;
+}
+#ida14 {
+    color: #ffffff;
+    background-color: rgb(211, 99, 18);
+    border-radius: 12px;
+    width: 44px;
+    margin-left: 106px;
+    margin-right: 106px;
+}
+#ida16 {
+    color: #ffffff;
+    background-color: rgb(201, 1, 1);
+    border-radius: 12px;
+    width: 44px;
+    margin-left: 106px;
+    margin-right: 106px;
 }
