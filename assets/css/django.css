@@ -47,7 +47,7 @@ p {
 }
 section {
     background-image: url(https://media.istockphoto.com/id/95570118/photo/red-wax-on-black.jpg?s=612x612&w=0&k=20&c=TlAELJAyZmglYlVlDoWiMyGaSzrCPUEyS2RRd2-Ava4=);
-    margin-left: 140px;
+    margin-left: 80px;
     height: 172px;
     width: 230px;
     margin-top: 30px;
@@ -73,8 +73,8 @@ a {
 }
 label {
     color: #ffffff;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 #k {
     font-size: large;
@@ -90,7 +90,7 @@ label {
 }
  #lala {
     display: flex;
-    margin-left: 28%;
+    margin-left: 32%;
  }
  #in {
     background-color: red;
@@ -121,5 +121,11 @@ label {
  }
  #div1 {
     display: flex;
-    margin-left: -70px;
  }
+#diiii {
+    background-color: rgb(24, 24, 24);
+    height: 670px;
+    width: 640px;
+    border-radius: 9px;
+    padding-top: 0.4px;
+}
