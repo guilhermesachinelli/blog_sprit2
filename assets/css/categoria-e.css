@@ -9,6 +9,7 @@ h1 {
     text-align: center;
 }
 #img_banner {
+    margin-top: -238px;
     height: 400px;
     width: 850px;
 }
@@ -33,7 +34,7 @@ h1 {
 #subtitulo4 {
     font-size: 25px;
     text-align: center;
-    color: aqua;
+    color: cornflowerblue;
 }
 #subtitulo5 {
     font-size: 25px;
@@ -62,4 +63,9 @@ h1 {
 }
 p {
     text-align: center;
+}
+.sections {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
 }
