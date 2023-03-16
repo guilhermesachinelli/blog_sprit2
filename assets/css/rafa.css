@@ -28,6 +28,7 @@
     #link2 {
         text-align: center;
         display: flex;
+        position: relative;
     }
 
     #link3 {
