@@ -2,18 +2,18 @@ body {
     background-color: black;
     color: #FFFFFF;
     font-family: sans-serif;
-    margin: 0%;
+    margin: 0;
 
 }
-
-#h1_banner {
-    text-align: center;
-    font-size: 39px;
-    color: #76b900;
-    margin-left: 10px;
+#section_background {
+    justify-content: center;
 }
-
-#p_banner {
+#img_tlu {
+    height: 400px;
+    width: 100%;
+    margin-top: -230px;
+}
+h2 {
     text-align: center;
 }
 #h2_1notice {
@@ -25,20 +25,13 @@ body {
     height: 200px;
     width: 300px;
 }
-
-#section_1notice {
-    margin-left: 10px;
-    display: flex;
-    width: 70%;
-    margin-bottom: 26px;
-    font-size: 24px;
-    background-color: #202020;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-}
-#link_hogwatslegacy {
+a {
     text-decoration: none;
     color: #FFFFFF;
+}
+#h4 {
+    font-size: 23px;
+    margin-left: 10px;
 }
 #p_1notice {
     margin-left: 7px;
@@ -47,40 +40,37 @@ body {
     font-size: 25px;
     color: #76b900;
     margin-left: 10px;
+    text-align: center;
 }
-#main_noticiasemana {
+#firstnotice {
+    display: flex;
+    width: auto;
+    justify-content: center;
+}
+#div_noticiasemana {
     display: flex;
 }
 #section_noticiasemana {
+    padding-right: 15px;
     margin-left: 10px;
-    width: 80%;
-    height: 187px;
-    display: flex;
-    margin-bottom: 23px;
-    background-color: #202020;
+    margin-right: 10px;
+    width: 300px;
+    height: auto;
     font-size: 18px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
+    border-radius: 10px;
+    justify-content: center;
 }
 .p_noticiasemana {
-    margin-left: 7px;
-}
-#h3_noticiamês {
-    font-size: 20px;
-    color: #76b900;
-    margin-left: 10px;
-}
-#aside_noticiames {
-    width: 30%;
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
-    background-color: #202020;
+    margin-top: -1px;
+    margin-left: 20px;
 }
 
 #img_noticiasemana {
-    height: 150px;
-    width: 250px;
+    height: auto;
+    width: 100%;
+   border-radius: 10px;
 }
-.p_noticiames {
-    margin-left: 5px;
+#div_noticiames {
+    display: flex;
+    justify-content: center;
 }
