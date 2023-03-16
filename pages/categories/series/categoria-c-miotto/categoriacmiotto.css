@@ -1,19 +1,18 @@
 body{
-    margin: 0;
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+   
+    background-color: black;
+    color: #ffffff;
 }
 
 h1{
     text-align: center;
-    color: #ffffff;
+    color: #76b900;
 }
 
 #div1{
-    background-color: #202020;
+    background-color:;
     width: 100%;
     height: 350px;
-    border-left: 7px solid #76b900;
     border-radius: 20px;
     margin-bottom: 25px;
     color: white;
@@ -22,8 +21,7 @@ h1{
 #div2{
     background-color: #202020;
     width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
+    height: 250px;
     border-radius: 20px;
     margin-bottom: 25px;
     color: white;
@@ -39,43 +37,51 @@ h1{
 
 }
 
-.section{
-    display: flex;
+.section_card{
     font-size: 30px;
     color: #ffffff;
     background-color: #202020;
-}
-
-#div3{
-    background-color: #202020;
-    width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
-    border-radius: 20px;
-    margin-bottom: 25px;
-    color: white;
+    margin-bottom: 66px ;
     display: flex;
-
 }
 
 #div4{
-    background-color: #202020;
     width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
+    height: 250px;
     border-radius: 20px;
     margin-bottom: 25px;
     color: white;
     display: flex;
 }
 
-#div5{
+img{
+
+    margin-right: 8px;
+    float: left;
+    
+}
+
+
+.divs{
     background-color: #202020;
     width: 100%;
-    height: 350px;
-    border-left: 7px solid #76b900;
-    border-radius: 20px;
+    height: 300px;
+    border-radius: 10px;
     margin-bottom: 25px;
     color: white;
+    margin-left: 15px;
+
+}
+
+#sectinflex{
     display: flex;
+}
+
+h3{
+    margin-right: 8px;
+}
+
+p {
+    font-size: 18px;
+    
 }
