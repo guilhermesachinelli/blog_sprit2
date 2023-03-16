@@ -56,6 +56,7 @@
   /* dropdown menu style */
   .dropdown-menu {
     display: none;
+    z-index: auto;
   }
   .menu-bar ul li:hover .dropdown-menu {
     display: block;
