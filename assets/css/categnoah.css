@@ -17,7 +17,7 @@ body {
 #sec1 {
     background-color: #161616;
     width: 250px;
-    height: 300px;
+    height: 368px;
     margin-left: 243px;
     padding-left: 10px;
     padding-right: 10px;
@@ -48,7 +48,7 @@ h2 {
 #sec2 {
     background-color: #161616;
     width: 250px;
-    height: 300px;
+    height: 368px;
     margin-left: 100px;
     padding-left: 10px;
     padding-right: 10px;
@@ -78,5 +78,30 @@ h1 {
     margin-right: 106px;
 }
 h3 {
-    color: #ffffff;
+    color: #feffc4;
+}
+#star {
+    height: 20px;
+    width: 20px;
+
+}
+#r {
+    color: rgb(114, 114, 244);
+}
+#m {
+    color: rgb(233, 143, 64);
+}
+#c {
+    color: rgb(184, 7, 184);
+}
+#blah {
+    color: rgb(235, 135, 5);
+    margin-right: 7px;
+}
+#runn {
+    color: #848fc8;
+}
+main {
+    display: flex;
+    margin-left: 22px;
 }
