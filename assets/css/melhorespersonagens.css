@@ -1,0 +1,54 @@
+body {
+    background-color: #202020;
+}
+
+#article1 {
+    background-color: #202020;
+    box-shadow: 5px 5px #76b900;
+    color: white;;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+}
+
+#article2 {
+    background-color: #202020;
+    box-shadow: 5px 5px #76b900;
+    color: white;
+    text-align: center;
+    font-size: 19px;
+}
+#article3{
+    text-align: center;
+}
+#article4{
+text-align: center;
+}
+#article5{
+    background-color: #202020;
+    box-shadow: 5px 5px #76b900;
+    color: white;
+    text-align: center;
+    font-size: 19px;
+}
+#article6{
+    text-align: center;
+}
+#article7{
+    background-color: #202020;
+    box-shadow: 5px 5px #76b900;
+    color: white;
+    text-align: center;
+    font-size: 19px;
+}
+#article8{
+    text-align: center;
+}
+#article9{
+    background-color: #202020;
+    box-shadow: 5px 5px #76b900;
+    color: white;
+    text-align: center;
+    font-size: 19px;
+
+}

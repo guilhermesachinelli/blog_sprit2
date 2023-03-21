@@ -2,10 +2,6 @@ html {
   height: 100%;
 }
 
-a {
-  cursor: pointer;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -180,6 +176,7 @@ body {
     bottom: 100%;
   }
 }
+
 #botaoreal{
   background-color: #202020;
   color: #76b900;
