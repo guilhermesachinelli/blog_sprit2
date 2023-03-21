@@ -13,7 +13,7 @@ body {
     text-align: center;
     font-size: 39px;
     margin-bottom: 77px;
-    color: gold;
+    color: #76b900;
     
 }
 #main_1 {
@@ -22,7 +22,10 @@ body {
 .h2_subtitle {
     font-size: 25px;
     text-align: center;
-    color: darkgoldenrod;
+    color: #76b900;
+}
+.sections {
+    background-color: #101010;
 }
 .p_text {
     font-size: 18px;
