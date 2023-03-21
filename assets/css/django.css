@@ -68,8 +68,9 @@ a {
 
 }
 #sec{
-    height: 10px;
-    width: 30px;
+    height: 20px;
+    width: 50px;
+    margin-right: 40px;
 }
 label {
     color: #ffffff;
@@ -128,4 +129,7 @@ label {
     width: 640px;
     border-radius: 9px;
     padding-top: 0.4px;
+}
+hr {
+width: 20%;
 }
