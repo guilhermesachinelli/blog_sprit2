@@ -29,10 +29,10 @@ body {
 }
 .p_text {
     font-size: 18px;
-    width: 100%;
     text-align: center;
-    width: 50%;
+    width: 65%;
     margin: auto;
+    text-align: justify;
 }
 #img_1 {
     width: 550px;
