@@ -1,9 +1,12 @@
 body {
     background-color: black;
+    margin: 0;
+   
 }
 #textao {
     color: #ffda35;
     text-align: center;
+    margin-top: -205px;
 }
 #textin {
     text-align: center;
@@ -97,9 +100,11 @@ h3 {
 #blah {
     color: rgb(235, 135, 5);
     margin-right: 7px;
+    margin-bottom: 0%;
 }
 #runn {
     color: #848fc8;
+    margin-bottom: 0%;
 }
 main {
     display: flex;
