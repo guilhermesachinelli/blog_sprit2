@@ -1,63 +1,79 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
 body {
     background-color: black;
     color: white;
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+
 h1 {
     text-align: center;
 }
-h2{
- font-size: 50px;
- margin-top: -5px;
- color: #76b900;
+
+h2 {
+    font-size: 50px;
+    margin-top: -5px;
+    color: #76b900;
 }
-#h2eqp{
+
+#h2eqp {
     text-align: center;
     font-size: 50px;
     margin-top: 100px;
     color: #76b900;
 }
-#sectionone{
+
+#sectionone {
     width: 900px;
     height: 110px;
     justify-content: left;
     margin-left: 240px;
     font-size: 20px;
 }
-#section-3{
+
+#section-3 {
     font-size: 30px;
 }
-aside{
+
+aside {
     height: 460px;
     width: 570px;
 }
-#sobrenos{
+
+#sobrenos {
     display: flex;
 }
-article{
+
+article {
     margin-right: 100px;
 }
+
 /*Inicio Cards*/
-.container{
+
+/*Final card 1 */
+
+.container {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.card{
+
+.card {
     height: 500px;
     margin: 50px;
     box-shadow: 5px 5px 20px black;
     overflow: hidden;
 }
-.cardsimgs{
+
+.cardsimgs {
     height: 500px;
     width: 350px;
     border-radius: 3px;
     transition: .5s;
 }
-.intro{
+
+.intro {
     height: 70px;
     width: 350px;
     padding: 6px;
@@ -67,55 +83,68 @@ article{
     background: rgb(27, 27, 27, .5);
     transition: .5s;
 }
-.h1card{
+
+.h1card {
     margin: 10px;
     font-size: 40px;
     color: white;
 }
-.pcard{
+
+.pcard {
     font-size: 20px;
     margin: 10px;
     color: white;
     visibility: hidden;
     opacity: 0;
 }
-span{
+
+span {
     font-weight: bold;
 }
-.card:hover{
+
+.card:hover {
     cursor: pointer;
 }
-.card:hover .intro{
+
+.card:hover .intro {
     height: 220px;
     bottom: -1221px;
     background-color: #202020;
 }
-.card:hover .pcard{
+
+.card:hover .pcard {
     opacity: 1;
     visibility: visible;
 }
-.card:hover .cardsimgs{
+
+.card:hover .cardsimgs {
     transform: scale(1.1) rotate(-3deg);
 }
+
+/*Final card 1 */
+
 /*Começo Card 2 */
-.container2{
+.container2 {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.card2{
+
+.card2 {
     height: 500px;
     margin: 50px;
     box-shadow: 5px 5px 20px black;
     overflow: hidden;
 }
-.cardsimgs2{
+
+.cardsimgs2 {
     height: 500px;
     width: 350px;
     border-radius: 3px;
     transition: .5s;
 }
-.intro2{
+
+.intro2 {
     height: 70px;
     width: 350px;
     padding: 6px;
@@ -125,36 +154,46 @@ span{
     background: rgb(27, 27, 27, .5);
     transition: .5s;
 }
-.h1card2{
+
+.h1card2 {
     margin: 10px;
     font-size: 40px;
     color: white;
 }
-.pcard2{
+
+.pcard2 {
     font-size: 20px;
     margin: 10px;
     color: white;
     visibility: hidden;
     opacity: 0;
 }
-span{
+
+span {
     font-weight: bold;
 }
-.card2:hover{
+
+.card2:hover {
     cursor: pointer;
 }
-.card2:hover .intro2{
+
+.card2:hover .intro2 {
     height: 220px;
     bottom: -1821px;
     background-color: #202020;
 }
-.card2:hover .pcard2{
+
+.card2:hover .pcard2 {
     opacity: 1;
     visibility: visible;
 }
-.card2:hover .cardsimgs2{
+
+.card2:hover .cardsimgs2 {
     transform: scale(1.1) rotate(-3deg);
 }
+
+/*Final card 2 */
+
 /*Seletor do Trilho/Scrolling Bar*/
 ::-webkit-scrollbar {
     width: 10px;
@@ -164,6 +203,8 @@ span{
     background-color: #76b900;
     border-radius: 15px;
 }
+
+/*Barra de scrolling perso Fim*/
 
 /*Titulo animado*/
 svg {
@@ -208,6 +249,8 @@ svg text {
         stroke-width: 0;
     }
 }
+
+/*Titulo animado Fim*/
 
 /*Carrossel Começo*/
 .slider {
