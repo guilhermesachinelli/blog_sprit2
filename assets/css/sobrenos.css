@@ -13,6 +13,12 @@ h2{
  margin-top: -5px;
  color: #76b900;
 }
+#h2eqp{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+    color: #76b900;
+}
 #sectionone{
     width: 900px;
     height: 110px;
@@ -32,6 +38,122 @@ aside{
 }
 article{
     margin-right: 100px;
+}
+/*Inicio Cards*/
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    height: 500px;
+    margin: 50px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+}
+.cardsimgs{
+    height: 500px;
+    width: 350px;
+    border-radius: 3px;
+    transition: .5s;
+}
+.intro{
+    height: 70px;
+    width: 350px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -1221px;
+    background: rgb(27, 27, 27, .5);
+    transition: .5s;
+}
+.h1card{
+    margin: 10px;
+    font-size: 40px;
+    color: white;
+}
+.pcard{
+    font-size: 20px;
+    margin: 10px;
+    color: white;
+    visibility: hidden;
+    opacity: 0;
+}
+span{
+    font-weight: bold;
+}
+.card:hover{
+    cursor: pointer;
+}
+.card:hover .intro{
+    height: 220px;
+    bottom: -1221px;
+    background-color: #202020;
+}
+.card:hover .pcard{
+    opacity: 1;
+    visibility: visible;
+}
+.card:hover .cardsimgs{
+    transform: scale(1.1) rotate(-3deg);
+}
+/*Começo Card 2 */
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card2{
+    height: 500px;
+    margin: 50px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+}
+.cardsimgs2{
+    height: 500px;
+    width: 350px;
+    border-radius: 3px;
+    transition: .5s;
+}
+.intro2{
+    height: 70px;
+    width: 350px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -1821px;
+    background: rgb(27, 27, 27, .5);
+    transition: .5s;
+}
+.h1card2{
+    margin: 10px;
+    font-size: 40px;
+    color: white;
+}
+.pcard2{
+    font-size: 20px;
+    margin: 10px;
+    color: white;
+    visibility: hidden;
+    opacity: 0;
+}
+span{
+    font-weight: bold;
+}
+.card2:hover{
+    cursor: pointer;
+}
+.card2:hover .intro2{
+    height: 220px;
+    bottom: -1821px;
+    background-color: #202020;
+}
+.card2:hover .pcard2{
+    opacity: 1;
+    visibility: visible;
+}
+.card2:hover .cardsimgs2{
+    transform: scale(1.1) rotate(-3deg);
 }
 /*Seletor do Trilho/Scrolling Bar*/
 ::-webkit-scrollbar {
