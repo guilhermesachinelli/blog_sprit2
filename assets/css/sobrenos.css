@@ -8,7 +8,31 @@ body {
 h1 {
     text-align: center;
 }
-
+h2{
+ font-size: 50px;
+ margin-top: -5px;
+ color: #76b900;
+}
+#sectionone{
+    width: 900px;
+    height: 110px;
+    justify-content: left;
+    margin-left: 240px;
+    font-size: 20px;
+}
+#section-3{
+    font-size: 30px;
+}
+aside{
+    height: 460px;
+    width: 570px;
+}
+#sobrenos{
+    display: flex;
+}
+article{
+    margin-right: 100px;
+}
 /*Seletor do Trilho/Scrolling Bar*/
 ::-webkit-scrollbar {
     width: 10px;
@@ -168,9 +192,3 @@ svg text {
 }
 
 /*Carrossel Fim */
-#sectionone {
-    display: flex;
-    margin-left: 50px;
-    width: 1500px;
-    background-color: #202020;
-}
