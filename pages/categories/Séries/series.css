@@ -38,7 +38,7 @@ h2 {
     color: #ffffff;
 }
 #dj {
-    color: red;
+    color: rgb(184, 7, 184);
 }
 #ida {
     color: #ffffff;
@@ -89,13 +89,13 @@ h3 {
 
 }
 #r {
-    color: rgb(114, 114, 244);
+    color: red;
 }
 #m {
-    color: rgb(233, 143, 64);
+    color: rgb(225, 225, 225);
 }
 #c {
-    color: rgb(184, 7, 184);
+    color: rgb(8, 209, 58);
 }
 #blah {
     color: rgb(235, 135, 5);
@@ -109,4 +109,7 @@ h3 {
 main {
     display: flex;
     margin-left: 22px;
+}
+#curb {
+    color: #ffd85a;
 }
