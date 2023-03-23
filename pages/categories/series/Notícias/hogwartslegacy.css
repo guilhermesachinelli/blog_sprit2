@@ -4,48 +4,61 @@ body {
     font-family: sans-serif;
     margin: 0;
 }
-#image1 {
-    width: 100%;
-    height: auto;
-    margin-top: -224px;
-}
+
 #h1_título {
     text-align: center;
     font-size: 39px;
     margin-bottom: 77px;
     color: #76b900;
-    
+
 }
-#main_1 {
-    display: flex;
-}
-.h2_subtitle {
-    font-size: 25px;
-    text-align: center;
-    color: #76b900;
-}
+
+
 .sections {
     background-color: #101010;
 }
+
 .p_text {
     font-size: 18px;
     width: 100%;
-    text-align: center;
     width: 50%;
-    margin: auto;
+
+
 }
+
 #img_1 {
     width: 550px;
     height: auto;
 }
-#img_2 {
-    width: 550px;
-    height: auto;
+
+
+P {
+    text-align: left;
+
 }
-#img_3 {
-    width: 550px;
-    height: auto;
+
+#h2_subtitle {
+    color: #76b900;
+    margin-left: 10px;
 }
-.p_image {
+
+#baner200 {
+    margin-bottom: 100;
+ 
+}
+
+.ps {
+    line-height: 30px;
+    margin-left: 10px;
+
+}
+
+h4 {
     text-align: center;
+    margin: auto;
+}
+
+#pcentro {
+    text-align: center;
+    color: #76b900;
 }
