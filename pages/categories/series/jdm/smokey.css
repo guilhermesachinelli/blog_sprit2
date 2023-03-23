@@ -19,6 +19,12 @@ body{
     padding: 15px;
     font-size: 30px;
 }
+#textngt{
+    margin-right: 300px;
+    margin-left: 300px;
+    justify-content: center;
+    font-size: x-large;
+}
 #sectinflex{
     display: flex;
     margin-left: 140px;
@@ -219,7 +225,7 @@ svg text {
     padding: 6px;
     box-sizing: border-box;
     position: absolute;
-    bottom: -1630px;
+    bottom: -1273px;
     background: rgb(27, 27, 27, .5);
     transition: .5s;
 }
@@ -248,7 +254,7 @@ span {
 
 .card:hover .intro {
     height: 220px;
-    bottom: -1630px;
+    bottom: -1273px;
     background-color: #202020;
 }
 
