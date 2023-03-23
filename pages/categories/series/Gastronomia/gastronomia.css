@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+#header1{
+    background-color: #202020;
+    box-shadow: 5px 5px #76b900;
+}
+#article2{
+    background-color: #202020;
+    box-shadow: 5px 5px #76b900;
+    align-items: end;
+    flex-direction: row;
+    display: flex;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+div{
+    padding-top: 50px;
+}
