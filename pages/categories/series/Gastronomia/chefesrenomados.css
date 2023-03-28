@@ -4,14 +4,14 @@ body {
     color: white;
     margin: 0%;
 }
-
+/*feito a body agora fazendo o article 1 padronizando */
 #article1 {
     background-color: #202020;
     box-shadow: 5px 5px #76b900;
     font-size: 30px;
 
 }
-
+/*fazendo article 2 artilce 3 dentro dos padroes e botando um marggin top na div*/
 #article2 {
     text-align: center;
 }
