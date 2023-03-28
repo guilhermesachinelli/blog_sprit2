@@ -75,5 +75,27 @@ a {
     display: flex;
     justify-content: center;
 }
-iframe{
+#img_semana {
+    height: auto;
+    width: 500px; 
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#leia_mais {
+    text-decoration: none;
+    color: #76b900;
+}
+.main_2 {
+    display: flex;
+}
+p {
+    font-size: 18px;
+    width: 65%;
+    text-align: justify;
+}
+h3 {
+    color: #76b900;
+    font-size: 22px;
 }
