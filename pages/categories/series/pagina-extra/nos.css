@@ -1,0 +1,17 @@
+img {
+    height: 250px;
+    width: 300px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+body {
+    background-color: black;
+}
+section {
+    background-color: rgb(37, 37, 37);
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    display: flex;
+}
