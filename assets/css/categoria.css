@@ -9,14 +9,14 @@ div {
 }
 #h1_título {
     text-align: center;
-    font-size: 39px;
+    font-size: 59px;
     margin-bottom: 77px;
     color: #76b900;
 }
 #img_banner {
     margin-top: -238px;
-    height: 400px;
-    width: 850px;
+    height: auto;
+    width: 100%;
 }
 #img_banner_center {
     text-align: center;
@@ -35,7 +35,7 @@ div {
 }
 .sections {
     background-color: #101010;
-    margin-right: 750px;
+    margin-left: 250px;
 }
 .p_text {
     font-size: 18px;
@@ -46,10 +46,12 @@ div {
 #img_1 {
     width: 550px;
     height: auto;
+    border-radius: 10px;
 }
 #img_2 {
     width: 550px;
     height: auto;
+    border-radius: 10px;
 }
 .p_image {
     text-align: center;
