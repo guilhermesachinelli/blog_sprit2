@@ -6,11 +6,13 @@ img {
 }
 body {
     background-color: black;
+    margin: 0%;
 }
 section {
     background-color: rgb(37, 37, 37);
     margin-left: 3px;
     margin-right: 3px;
+    border-radius: 8px;
 }
 div {
     display: flex;
@@ -25,4 +27,5 @@ h2 {
 }
 #h11 {
     font-size: 60px;
+    margin-top: -180px;
 }
