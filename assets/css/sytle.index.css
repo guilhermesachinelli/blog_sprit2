@@ -99,3 +99,21 @@ h3 {
     color: #76b900;
     font-size: 22px;
 }
+@media (max-width: 600px) {
+    .main_2{
+        flex-direction: column;
+    }
+    p{
+        width: 100vw;
+        margin-left: 10px;
+    }
+    #img_semana{
+        width: 300px;
+        margin-left: 20px;
+    }
+    #div_noticiasemana{
+        flex-direction: column;
+    }
+}
+
+

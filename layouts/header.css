@@ -88,8 +88,6 @@ body {
   padding: 10px;
 }
 
-.hero {
-  height: calc(100vh - 80px);
-  background-image: url(./bg.jpg);
-  background-position: center;
+
+@media (max-width: 600px) {
 }
